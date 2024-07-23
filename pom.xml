@@ -4,7 +4,7 @@
 
     <groupId>com.tosan.tools</groupId>
     <artifactId>tencryptor</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>Tosan Encryptor</name>
 
@@ -31,7 +31,7 @@
         <connection>scm:git:https://github.com/Tosan/tencryptor.git</connection>
         <developerConnection>scm:git:https://github.com/Tosan/tencryptor.git</developerConnection>
         <url>https://github.com/Tosan/tencryptor</url>
-        <tag>HEAD</tag>
+        <tag>v1.0.0</tag>
     </scm>
 
     <properties>
